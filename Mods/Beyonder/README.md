@@ -1,6 +1,6 @@
 #  Beyonder Mod v1.0
 
-### [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsModPacks/blob/main/Mods/Beyonder/Battle%20Realms.dat)
+### [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsModPacks/raw/main/Mods/Beyonder/Battle%20Realms.dat)
 
 ---
 
