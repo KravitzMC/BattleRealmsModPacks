@@ -1,4 +1,4 @@
-#  Beyonder Mod
+#  Beyonder Mod v1.0
 
 
 READ HERE FOR FULL Kenji Version DESCRIPTION
